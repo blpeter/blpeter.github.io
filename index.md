@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Stories of a Sysadmin: The troll that looks over the computers.
 
-You can use the [editor on GitHub](https://github.com/blpeter/blpeter.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+One day I looked up sysadmin on urban dictionary. Below is my favorite definition:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+> The troll that looks over the computers at your school/library/local bestbuy. He has no real power and solely relies on smoke and mirrors to intimidate students. His magical powers include psychic remote viewing (through VNC desktop viewer), sending popup messages through winpopup, remote restart/shutdown, locking up your desktop, and playing god.
 
-### Markdown
+While this made me laugh a lot (I have met a few of these sysadmins). The definition that I hope more mirrors my work is this one: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+> Someone who makes what ever craptastic software package or networking configuration that the customer and/or development team wants actually work.
 
-```markdown
-Syntax highlighted code block
+Going forward I hope to fill this page with some of the knowledge that I come across in my journey. I few interesting facts about me:
 
-# Header 1
-## Header 2
-### Header 3
+* I helped build a self-driving wheelchair in college. We competed in the [IGVC](http://www.igvc.org/) competition with it. Here it is in [action](https://www.youtube.com/watch?v=SWMBObGXcSY) (wow, I look young in that video). Here is the [paper](http://www.sensoray.com/downloads/appnote_311_urckbot.pdf) we wrote about it.
 
-- Bulleted
-- List
+* I currently work for the Boise State Computer Science Department. I spend most of my time in Linux and some Windows on the side. I support a Linux lab (currently running CentOS 7) of 146 computers and several department servers.
 
-1. Numbered
-2. List
+* One of my favorite quotes is: "Never trust a bald barber." This comes from the movie Kuffs. A friend told it to me once and it stuck with me. I still have not seen the movie.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/blpeter/blpeter.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
