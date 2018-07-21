@@ -12,7 +12,9 @@ Going forward I hope to fill this page with some of the knowledge that I come ac
 
 * I helped build a self-driving wheelchair in college. We competed in the [IGVC](http://www.igvc.org/) competition with it. Here it is in [action](https://www.youtube.com/watch?v=SWMBObGXcSY) (wow, I look young in that video). Here is the [paper](http://www.sensoray.com/downloads/appnote_311_urckbot.pdf) we wrote about it.
 
-* I currently work for the Boise State Computer Science Department. I spend most of my time in Linux and some Windows on the side. I support a Linux lab (currently running CentOS 7) of 146 computers and several department servers.
+* I currently work for the Boise State Computer Science Department (job title: IT Systems Engineer). I spend most of my time in Linux and some Windows on the side. I support a Linux lab (currently running CentOS 7) of 146 computers and several department servers.
 
 * One of my favorite quotes is: "Never trust a bald barber." This comes from the movie Kuffs. A friend told it to me once and it stuck with me. I still have not seen the movie.
+
+* I am a founder and current member of the Board of Directors for a charter school in Kuna, Idaho. The school focus on STEM education and project-based learning. I also helped design the [website](http://www.pistem.org/). It is not super great yet, but it is getting better.
 
